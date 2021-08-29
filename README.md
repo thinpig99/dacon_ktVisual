@@ -49,3 +49,4 @@
 ![슬라이드31](https://user-images.githubusercontent.com/52409420/131244140-0458bc5a-5ef4-49d1-bead-185fec1fcaa4.PNG)
 ![슬라이드32](https://user-images.githubusercontent.com/52409420/131244142-8cba57bc-d73c-466a-9876-253aef1eb475.PNG)
 ![슬라이드33](https://user-images.githubusercontent.com/52409420/131244143-9b87552a-10e8-425e-b33f-5c025f664537.PNG)
+###### (*PPT 디자인은 제39회 제일기획 아이디어 페스티벌 수상작 '오지랖을 누리다!' 을 참고하였습니다.*)
