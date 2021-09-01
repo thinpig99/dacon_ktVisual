@@ -1,18 +1,21 @@
 # Project
-- 대회명: 2021 빅데이터 통신 플랫폼 경진대회
-- 대회 주제: 코로나 시대와 함께하는 국민의 음식, 배달 문화 변화에 대한 시각화 처리
-- 대회 설명: 빅데이터를 통해 코로나 시대 의미 있는 인사이트 도출 및 빅데이터 분석 생태계 활성화 및 아이디어 발굴
-- 대회 유형: 애널리틱스
-- 사용 툴: python, matplotlib, seaborn, pandas
-- 대회 기간: 2021.07 ~ 2021.08
+- Title: 2021 Big Data Platform Competition
+- Goal
+  - Visualization of changes in the food and delivery culture of the people with the coronavirus era.
+  - Develop meaningful insights and vitalize big data analysis ecosystems and discover ideas through big data
+- Category: Analytics
+- Tool Used: python, matplotlib, seaborn, pandas
+- Period: 2021.07 ~ 2021.08
 
 # Data
-- Delivery Data
-- From: KT Bigdata Platform
-- Population Data
-- From: KOSIS
-- ShopOpenClose Data
-- From: KLID
+- Delivery Data(From: KT Bigdata Platform)
+- Population Data(From: KOSIS)
+- ShopOpenClose Data(From: KLID)
+
+# Evaluation
+- Metric: User Voting, Qualitative Evaluation of the Panel
+- Public Score: 3rd
+- Private Score: 1st
 
 # PPT
 
@@ -49,4 +52,4 @@
 ![슬라이드31](https://user-images.githubusercontent.com/52409420/131244140-0458bc5a-5ef4-49d1-bead-185fec1fcaa4.PNG)
 ![슬라이드32](https://user-images.githubusercontent.com/52409420/131244142-8cba57bc-d73c-466a-9876-253aef1eb475.PNG)
 ![슬라이드33](https://user-images.githubusercontent.com/52409420/131244143-9b87552a-10e8-425e-b33f-5c025f664537.PNG)
-###### (*PPT 디자인은 제39회 제일기획 아이디어 페스티벌 수상작 '오지랖을 누리다!' 을 참고하였습니다.*)
+###### (*PPT 디자인은 제39회 제일기획 아이디어 페스티벌 수상작 '오지랖을 누리다!' 를 참고하였습니다.*)
