@@ -1,5 +1,5 @@
 # Project
-- Title: 2021 Big Data Platform Competition
+- Title: 2021 Big Data Telecom Platform Competition
 - Goal
   - Visualization of changes in the food and delivery culture of the people with the coronavirus era.
   - Develop meaningful insights and vitalize big data analysis ecosystems and discover ideas through big data
